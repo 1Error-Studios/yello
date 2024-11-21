@@ -1,0 +1,21 @@
+{
+  "name": "yello-app",
+  "version": "1.0.0-11212024",
+  "description": "It will be torrent-app soon...",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "authors": [
+    {
+      "name": "Maksim Ruletov",
+      "url": "https://github.com/maksim-ruletov"
+    }
+  ],
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "electron": "^33.2.0"
+  },
+  "devDependencies": {
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
